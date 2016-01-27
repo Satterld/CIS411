@@ -1,0 +1,30 @@
+
+.navbar-btn{
+	  margin-right: 10px;
+}
+body { padding-top: 70px; padding-bottom: 70px; font-family: Arial;}
+a:hover{font: black;}
+img{
+	padding-bottom: 10px;
+	border: solid black .5px;
+}
+a.btn.btn-danger{
+	padding-top: 5px;
+	padding-bottom: 5px;
+	margin-top: 5px;
+}
+.page-header{
+	margin-top: 0;
+}
+.panel-body{
+	padding-top: 0;
+}
+.featuredImg{
+	margin-bottom: 15px;
+}
+.input-group{
+	padding-bottom: 10px;
+}
+h3{
+ 	text-decoration: underline;
+}

@@ -1,0 +1,14 @@
+body{
+	color: white;
+	padding-top: 70px;
+}
+.navbar-fixed-top{
+	
+	color: white;
+}
+div.page-header{
+	border: solid black 1px;
+}
+.row{
+	display: inline-block;
+}
